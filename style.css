@@ -1,0 +1,19 @@
+html {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+body {
+  margin: auto;
+  width: 1000px;
+}
+p {
+  font-size: 15px;
+  font-weight: 200;
+}
+input {
+  width: 60px;
+}
+button {
+  background-color: yellow;
+  padding: 10px;
+  border-radius: 20px;
+}
